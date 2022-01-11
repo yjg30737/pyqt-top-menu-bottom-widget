@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QWidget, QVBoxLayout, QHBoxLayout, QPushButton, \
     QMainWindow, QGridLayout, QGraphicsView
 
 
-class TopMenuBarBottomWidget(QMainWindow):
+class TopMenuBottomWidget(QMainWindow):
     def __init__(self):
         super().__init__()
         self.__initUi()

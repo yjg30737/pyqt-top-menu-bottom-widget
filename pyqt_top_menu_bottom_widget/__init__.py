@@ -1,1 +1,1 @@
-from .topMenuBottomWidget import TopMenuBarBottomWidget
+from .topMenuBottomWidget import TopMenuBottomWidget
