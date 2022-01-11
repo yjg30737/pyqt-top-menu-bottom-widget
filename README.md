@@ -26,3 +26,5 @@ if __name__ == "__main__":
 Result
 
 ![image](https://user-images.githubusercontent.com/55078043/148882447-83df7ecb-9a35-4d6b-8c66-a625d9ae60ef.png)
+
+A and B are QPushButtons, bottom widget is QGraphicsView.
